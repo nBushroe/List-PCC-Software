@@ -1,0 +1,33 @@
+Windows Driver Package - Texas Instruments Inc. (TIEHDUSB) USB  (09/02/2009 1.0.0.1)
+Windows Driver Package - Texas Instruments Inc. (SilvrLnk) USB  (06/11/2009 1.0.0.0)
+Mozilla Firefox ESR (x64 en-US)
+Mozilla Maintenance Service
+Notepad++ (64-bit x64)
+Microsoft 365 Apps for enterprise - en-us
+VLC media player
+Microsoft Update Health Tools
+Zoom Workplace (64-bit)
+Google Chrome
+Cortex XDR 9.1.1.26099
+Google Drive
+Snow Inventory Agent for Windows
+Nessus Agent (x64)
+Omnissa Workspace ONE Experience Management
+Webex
+VLC media player
+Adobe Acrobat (64-bit)
+MDOP MBAM
+Workspace ONE Assist Installer
+GlobalProtect
+Copilot
+Microsoft Edge
+Logger Pro 3.16.2
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211
+HP MIK Client
+SimBio Virtual Labs
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660
+Workspace ONE Intelligent Hub Installer
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211
+Admin By Request Workstation
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660
+Microsoft OneDrive

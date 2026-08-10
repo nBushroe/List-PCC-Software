@@ -1,5 +1,5 @@
 # List-PCC-Software
-Reads the uninstall keys from the registry and saves it to a file named after the PCs hostname
+PowerShell script that Reads the uninstall keys from the registry and saves it to a file named after the PCs hostname
 Usefull when the computer does not have winget
 
 Double click the .bat file to run.
